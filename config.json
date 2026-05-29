@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvelete",
+        "uuid": 1698000,
+        "checksum": "vbluf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
